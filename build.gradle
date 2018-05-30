@@ -43,6 +43,6 @@ repositories {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.segway.robot:mobile-connectivity-sdk:0.5.98'
+    compile 'com.segway.robot:mobile-connectivity-sdk:0.5.104'
     testCompile 'junit:junit:4.12'
 }
